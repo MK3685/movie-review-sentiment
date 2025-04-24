@@ -32,7 +32,7 @@ We used a dataset of movie reviews (stored in an Excel file) and performed:
 
 The dataset consists of movie reviews in Excel format:
 
-📎 `movie_review.xlsx`
+📎 [`movie_review.xlsx`](data/movie_review.xlsx)
 
 Each row contains:
 - `fold_id`: Cross-validation fold ID
